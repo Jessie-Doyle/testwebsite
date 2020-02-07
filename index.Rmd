@@ -1,0 +1,12 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to water quality indexes as part of the ORISE Research fellow program in the care of the USEPA [USEPA Pacific Ecological Systems Divison (PESD)](https://www.epa.gov/aboutepa/about-pacific-ecological-systems-division-pesd). 
+
+I graduated from [California State University at Monterey Bay](https://csumb.edu/) with a MS in Applied Marine and Watershed Science in 2019.
+
+My full CV is available [here](files/Zabor_CV_2017_Q4.pdf).
